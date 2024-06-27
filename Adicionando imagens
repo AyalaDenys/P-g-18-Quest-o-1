@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Adicionando 2 imagens</title>
+    <img src="img1.jpeg" alt="error">
+    <img src="img2.jpeg" alt="error">
+   
+    
+</head>
+<body>
+    
+</body>
+</html>
